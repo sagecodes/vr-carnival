@@ -18115,8 +18115,8 @@ MonoBehaviour:
   CoinPrefab: {fileID: 1857266154057310, guid: 26ac56dd461825d48b3534bb7594f7e7, type: 2}
   CoinPile: {fileID: 110075792}
   DistanceFromFace: 0.5
-  MinTossPower: 0
-  MaxTossPower: 18
+  MinTossPower: 10
+  MaxTossPower: 13
   SliderSpeed: 2
   clickNotification: {fileID: 110075795}
   yay: {fileID: 941696619}
