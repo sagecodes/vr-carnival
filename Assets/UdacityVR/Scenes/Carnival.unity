@@ -18114,7 +18114,7 @@ MonoBehaviour:
   CoinPile: {fileID: 110075792}
   DistanceFromFace: 0.5
   MinTossPower: 0
-  MaxTossPower: 0
+  MaxTossPower: 18
   SliderSpeed: 2
   clickNotification: {fileID: 110075795}
   yay: {fileID: 941696619}
